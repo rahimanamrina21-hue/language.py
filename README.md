@@ -16,3 +16,5 @@
 *Example translation session (English → French)*
 
 ![image alt](https://github.com/rahimanamrina21-hue/language.py/blob/d025d72e72cad0480705b9540d8880a49d7c6c48/3.png)
+
+![image alt](https://github.com/rahimanamrina21-hue/language.py/blob/aa56d83e71ef99f6c87c138946f245872ed26528/2.png)
