@@ -14,3 +14,5 @@
 ✅ Easily extendable to new language pairs  
 
 *Example translation session (English → French)*
+
+![image alt](https://github.com/rahimanamrina21-hue/language.py/blob/d025d72e72cad0480705b9540d8880a49d7c6c48/3.png)
